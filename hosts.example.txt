@@ -1,0 +1,6 @@
+# Example hosts file for check-all.sh
+# One user@host per line
+
+# root@10.0.0.1
+# deploy@staging.example.com
+# admin@prod-web-01.internal
